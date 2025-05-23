@@ -15,5 +15,5 @@ namespace Loops
                 Console.WriteLine("Terje er kul");
             }
         }
-    }jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+    }
 }
